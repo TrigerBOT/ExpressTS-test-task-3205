@@ -1,2 +1,18 @@
-# expressTS
- test task for 3205.team
+
+# 3205 test task
+
+Как установить и запустить проект
+
+
+
+
+#### Последовательность
+
+```http
+ npm install
+```
+
+```http
+ npm run dev
+```
+
